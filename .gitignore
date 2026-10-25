@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+gradebot
+gradebot.tar.gz
+grading-source/
